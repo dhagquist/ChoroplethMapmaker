@@ -3,4 +3,4 @@ Takes a shapefile as input and outputs a choropleth map given user specified par
 
 Screenshot:
 
-![alt tag](http://i.imgur.com/ysGAyNX.png)
+![Choropleth Map](http://i.imgur.com/ysGAyNX.png)
